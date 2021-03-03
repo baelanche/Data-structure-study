@@ -10,7 +10,8 @@
     <li>pointer-practice : pointer 변수를 참조하여 value를 대입해봄</li>
   </ul>
   structure
+  <ul>
     <li>struct : 스트럭쳐 멤버변수 이용</li>
     <li>struct2 : 포인터를 통한 스트럭쳐 접근, 화살표 문법</li>
-  <ul></ul>
+  </ul>
 </ul>
