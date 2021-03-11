@@ -14,4 +14,10 @@
     <li>struct : 스트럭쳐 멤버변수 이용</li>
     <li>struct2 : 포인터를 통한 스트럭쳐 접근, 화살표 문법</li>
   </ul>
+  array
+  <ul>
+    <li>array1 : 배열 실습</li>
+    <li>dynamic-allo-array : 배열 동적 할당</li>
+    <li>dynamic-allo-array2 : 2차원 배열 동적 할당</li>
+  </ul>
 </ul>
