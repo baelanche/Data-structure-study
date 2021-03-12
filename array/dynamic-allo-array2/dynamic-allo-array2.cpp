@@ -19,4 +19,5 @@ int main() {
 	int** myArray;
 	myArray = make2dArray(5, 10);
 	myArray[2][4] = 6;
+	free(myArray);
 }
