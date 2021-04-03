@@ -19,6 +19,8 @@
     <li>array1 : 배열 실습</li>
     <li>dynamic-allo-array : 배열 동적 할당</li>
     <li>dynamic-allo-array2 : 2차원 배열 동적 할당</li>
+    <li>polynomials : 다항식 계산, 실습</li>
+    <li>kmp : kmp 알고리즘 구현, 실습</li>
   </ul>
   stack & queue
   <ul>
