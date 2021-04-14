@@ -36,4 +36,9 @@
     <li>linkedlist_queue : 연결리스트로 큐 구현</li>
     <li>doubly_linkedlist : 이중연결리스트 구현</li>
   </ul>
+  tree
+  <ul>
+    <li>equivalence</li>
+    <li>binaryTreeTraversal : preorder, inorder, postorder</li>
+  </ul>
 </ul>
